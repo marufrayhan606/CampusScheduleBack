@@ -3,10 +3,10 @@
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "611",
-        "courseCode": "SE121",
-        "teacherInitial": "MR",
-        "batch": "43",
-        "section": "I"
+        "courseCode": "ENG101",
+        "teacherInitial": "JC",
+        "batch": "44",
+        "section": "F"
     },
     {
         "day": "Saturday",
@@ -57,10 +57,10 @@
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "612",
-        "courseCode": "ENG101",
-        "teacherInitial": "JC",
+        "courseCode": "SE111",
+        "teacherInitial": "TAK",
         "batch": "44",
-        "section": "F"
+        "section": "G"
     },
     {
         "day": "Saturday",
@@ -75,9 +75,9 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "612",
-        "courseCode": "SE311",
-        "teacherInitial": "SD",
-        "batch": "40",
+        "courseCode": "SE111",
+        "teacherInitial": "MKS",
+        "batch": "44",
         "section": "F"
     },
     {
@@ -100,21 +100,12 @@
     },
     {
         "day": "Saturday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "612",
-        "courseCode": "SE225",
-        "teacherInitial": "RT",
-        "batch": "40",
-        "section": "F"
-    },
-    {
-        "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "604",
-        "courseCode": "SE111",
-        "teacherInitial": "TAK",
-        "batch": "44",
-        "section": "G"
+        "courseCode": "SE223",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "H"
     },
     {
         "day": "Saturday",
@@ -129,10 +120,10 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "604",
-        "courseCode": "SE111",
-        "teacherInitial": "MKS",
-        "batch": "44",
-        "section": "F"
+        "courseCode": "SE221",
+        "teacherInitial": "AG",
+        "batch": "41",
+        "section": "B"
     },
     {
         "day": "Saturday",
@@ -165,10 +156,10 @@
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "701A",
-        "courseCode": "SE223",
-        "teacherInitial": "AR",
-        "batch": "41",
-        "section": "H"
+        "courseCode": "SE121",
+        "teacherInitial": "NML",
+        "batch": "43",
+        "section": "Q"
     },
     {
         "day": "Saturday",
@@ -183,10 +174,10 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "701A",
-        "courseCode": "SE221",
-        "teacherInitial": "AG",
-        "batch": "41",
-        "section": "B"
+        "courseCode": "SE121",
+        "teacherInitial": "MR",
+        "batch": "43",
+        "section": "J"
     },
     {
         "day": "Saturday",
@@ -219,10 +210,10 @@
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "701B",
-        "courseCode": "SE121",
-        "teacherInitial": "NML",
-        "batch": "43",
-        "section": "Q"
+        "courseCode": "SE214",
+        "teacherInitial": "NJN",
+        "batch": "41",
+        "section": "J"
     },
     {
         "day": "Saturday",
@@ -238,9 +229,9 @@
         "time": "11:30 AM - 01:00 PM",
         "room": "701B",
         "courseCode": "SE121",
-        "teacherInitial": "MR",
+        "teacherInitial": "JIC",
         "batch": "43",
-        "section": "J"
+        "section": "K"
     },
     {
         "day": "Saturday",
@@ -273,10 +264,10 @@
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "712A",
-        "courseCode": "SE214",
-        "teacherInitial": "NJN",
+        "courseCode": "SE223",
+        "teacherInitial": "MMSI",
         "batch": "41",
-        "section": "J"
+        "section": "F"
     },
     {
         "day": "Saturday",
@@ -286,6 +277,15 @@
         "teacherInitial": "KF",
         "batch": "44",
         "section": "L"
+    },
+    {
+        "day": "Saturday",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "712A",
+        "courseCode": "SE225",
+        "teacherInitial": "RT",
+        "batch": "40",
+        "section": "G"
     },
     {
         "day": "Saturday",
@@ -307,12 +307,21 @@
     },
     {
         "day": "Saturday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "712A",
+        "courseCode": "SE121",
+        "teacherInitial": "SA",
+        "batch": "43",
+        "section": "C"
+    },
+    {
+        "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "712B",
-        "courseCode": "SE223",
-        "teacherInitial": "MMSI",
+        "courseCode": "SE532",
+        "teacherInitial": "MTE",
         "batch": "41",
-        "section": "F"
+        "section": "K"
     },
     {
         "day": "Saturday",
@@ -327,10 +336,10 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "712B",
-        "courseCode": "SE216",
-        "teacherInitial": "MAAA",
-        "batch": "42",
-        "section": "D"
+        "courseCode": "SE221",
+        "teacherInitial": "MBH",
+        "batch": "41",
+        "section": "F"
     },
     {
         "day": "Saturday",
@@ -354,19 +363,19 @@
         "day": "Saturday",
         "time": "04:00 PM - 05:30 PM",
         "room": "712B",
-        "courseCode": "SE121",
-        "teacherInitial": "SA",
-        "batch": "43",
-        "section": "C"
+        "courseCode": "SE223",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "N"
     },
     {
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "713",
-        "courseCode": "SE532",
-        "teacherInitial": "MTE",
-        "batch": "41",
-        "section": "K"
+        "courseCode": "SE113",
+        "teacherInitial": "MKS",
+        "batch": "44",
+        "section": "M"
     },
     {
         "day": "Saturday",
@@ -381,10 +390,10 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "713",
-        "courseCode": "SE544",
-        "teacherInitial": "NS",
-        "batch": "39",
-        "section": "D"
+        "courseCode": "SE532",
+        "teacherInitial": "HI",
+        "batch": "41",
+        "section": "N"
     },
     {
         "day": "Saturday",
@@ -399,26 +408,8 @@
         "day": "Saturday",
         "time": "02:30 PM - 04:00 PM",
         "room": "713",
-        "courseCode": "SE216",
-        "teacherInitial": "RJM",
-        "batch": "42",
-        "section": "A"
-    },
-    {
-        "day": "Saturday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "713",
-        "courseCode": "SE223",
-        "teacherInitial": "AR",
-        "batch": "41",
-        "section": "G"
-    },
-    {
-        "day": "Saturday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "811",
-        "courseCode": "SE332",
-        "teacherInitial": "AE",
+        "courseCode": "SE544",
+        "teacherInitial": "NS",
         "batch": "39",
         "section": "D"
     },
@@ -426,14 +417,14 @@
         "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "811",
-        "courseCode": "SE311",
-        "teacherInitial": "SD",
-        "batch": "40",
-        "section": "G"
+        "courseCode": "SE222",
+        "teacherInitial": "NML",
+        "batch": "42",
+        "section": "K"
     },
     {
         "day": "Saturday",
-        "time": "04:00 PM - 05:30 PM",
+        "time": "01:00 PM - 02:30 PM",
         "room": "811",
         "courseCode": "SE221",
         "teacherInitial": "NML",
@@ -442,21 +433,21 @@
     },
     {
         "day": "Saturday",
-        "time": "10:00 AM - 11:30 AM",
-        "room": "812",
-        "courseCode": "SE221",
-        "teacherInitial": "MBH",
-        "batch": "41",
-        "section": "E"
+        "time": "02:30 PM - 04:00 PM",
+        "room": "811",
+        "courseCode": "SE444",
+        "teacherInitial": "A",
+        "batch": "35&36",
+        "section": null
     },
     {
         "day": "Saturday",
-        "time": "11:30 AM - 01:00 PM",
+        "time": "10:00 AM - 11:30 AM",
         "room": "812",
-        "courseCode": "SE121",
-        "teacherInitial": "JIC",
-        "batch": "43",
-        "section": "K"
+        "courseCode": "SE221",
+        "teacherInitial": "MIM",
+        "batch": "41",
+        "section": "I"
     },
     {
         "day": "Saturday",
@@ -480,28 +471,10 @@
         "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "813A",
-        "courseCode": "SE221",
-        "teacherInitial": "MIM",
-        "batch": "41",
-        "section": "I"
-    },
-    {
-        "day": "Saturday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "813A",
-        "courseCode": "SE225",
-        "teacherInitial": "RT",
-        "batch": "40",
-        "section": "G"
-    },
-    {
-        "day": "Saturday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "813A",
-        "courseCode": "SE131",
-        "teacherInitial": "MRD",
-        "batch": "42",
-        "section": "F"
+        "courseCode": "SE212",
+        "teacherInitial": "NS",
+        "batch": "43",
+        "section": "Q"
     },
     {
         "day": "Saturday",
@@ -516,19 +489,19 @@
         "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "913",
-        "courseCode": "SE212",
-        "teacherInitial": "NS",
-        "batch": "43",
-        "section": "Q"
+        "courseCode": "SE214",
+        "teacherInitial": "MMSI",
+        "batch": "41",
+        "section": "K"
     },
     {
         "day": "Saturday",
-        "time": "11:30 AM - 01:00 PM",
+        "time": "01:00 PM - 02:30 PM",
         "room": "913",
-        "courseCode": "SE221",
-        "teacherInitial": "MBH",
-        "batch": "41",
-        "section": "F"
+        "courseCode": "SE342",
+        "teacherInitial": "A",
+        "batch": "35&36",
+        "section": null
     },
     {
         "day": "Saturday",
@@ -543,10 +516,19 @@
         "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "914",
-        "courseCode": "SE214",
-        "teacherInitial": "MMSI",
-        "batch": "41",
-        "section": "K"
+        "courseCode": "SE111",
+        "teacherInitial": "SI",
+        "batch": "44",
+        "section": "J"
+    },
+    {
+        "day": "Saturday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "914",
+        "courseCode": "SE321",
+        "teacherInitial": "FKJ",
+        "batch": "39",
+        "section": "D"
     },
     {
         "day": "Saturday",
@@ -561,10 +543,19 @@
         "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "921",
-        "courseCode": "SE111",
-        "teacherInitial": "SI",
-        "batch": "44",
-        "section": "J"
+        "courseCode": "SE221",
+        "teacherInitial": "MBH",
+        "batch": "41",
+        "section": "E"
+    },
+    {
+        "day": "Saturday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "921",
+        "courseCode": "SE532",
+        "teacherInitial": "MBM",
+        "batch": "41",
+        "section": "I"
     },
     {
         "day": "Saturday",
@@ -577,12 +568,48 @@
     },
     {
         "day": "Saturday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "101A",
+        "courseCode": "SE216",
+        "teacherInitial": "MAAA",
+        "batch": "42",
+        "section": "D"
+    },
+    {
+        "day": "Saturday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "101A",
+        "courseCode": "SE321",
+        "teacherInitial": "DB",
+        "batch": "39",
+        "section": "C"
+    },
+    {
+        "day": "Saturday",
         "time": "02:30 PM - 04:00 PM",
         "room": "101A",
         "courseCode": "SE221",
         "teacherInitial": "MIM",
         "batch": "41",
         "section": "K"
+    },
+    {
+        "day": "Saturday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "1415A",
+        "courseCode": "SE225",
+        "teacherInitial": "RT",
+        "batch": "40",
+        "section": "F"
+    },
+    {
+        "day": "Saturday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "1415A",
+        "courseCode": "SE121",
+        "teacherInitial": "MR",
+        "batch": "43",
+        "section": "I"
     },
     {
         "day": "Saturday",
@@ -660,19 +687,19 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "610",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "D1"
+        "courseCode": "SE215",
+        "teacherInitial": "IS",
+        "batch": "41",
+        "section": "E1"
     },
     {
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "610",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "D1"
+        "courseCode": "SE122",
+        "teacherInitial": "MR",
+        "batch": "43",
+        "section": "I2"
     },
     {
         "day": "Saturday",
@@ -723,10 +750,10 @@
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "616",
-        "courseCode": "SE122",
-        "teacherInitial": "MR",
-        "batch": "43",
-        "section": "I2"
+        "courseCode": "SE322",
+        "teacherInitial": "MI",
+        "batch": "38",
+        "section": "A2"
     },
     {
         "day": "Saturday",
@@ -736,6 +763,15 @@
         "teacherInitial": "MTK",
         "batch": "43",
         "section": "A2"
+    },
+    {
+        "day": "Saturday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "616",
+        "courseCode": "SE133",
+        "teacherInitial": "SAM",
+        "batch": "42",
+        "section": "J1"
     },
     {
         "day": "Saturday",
@@ -768,10 +804,10 @@
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "903",
-        "courseCode": "SE322",
-        "teacherInitial": "MI",
-        "batch": "38",
-        "section": "A2"
+        "courseCode": "SE224",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "K1"
     },
     {
         "day": "Saturday",
@@ -804,19 +840,19 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "814A",
-        "courseCode": "SE133",
-        "teacherInitial": "NS",
-        "batch": "42",
-        "section": "F"
+        "courseCode": "SE224",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "G2"
     },
     {
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "814A",
-        "courseCode": "SE224",
-        "teacherInitial": "AR",
-        "batch": "41",
-        "section": "K1"
+        "courseCode": "SE133",
+        "teacherInitial": "MTM",
+        "batch": "42",
+        "section": "D2"
     },
     {
         "day": "Saturday",
@@ -831,10 +867,10 @@
         "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "710",
-        "courseCode": "SE133",
-        "teacherInitial": "NS",
-        "batch": "42",
-        "section": "F"
+        "courseCode": "SE112",
+        "teacherInitial": "SAN",
+        "batch": "44",
+        "section": "E2"
     },
     {
         "day": "Saturday",
@@ -849,19 +885,19 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "710",
-        "courseCode": "SE224",
-        "teacherInitial": "AR",
+        "courseCode": "SE215",
+        "teacherInitial": "NJN",
         "batch": "41",
-        "section": "G2"
+        "section": "J2"
     },
     {
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "710",
-        "courseCode": "SE133",
-        "teacherInitial": "MTM",
-        "batch": "42",
-        "section": "D2"
+        "courseCode": "SE224",
+        "teacherInitial": "SAN",
+        "batch": "41",
+        "section": "K2"
     },
     {
         "day": "Saturday",
@@ -894,19 +930,19 @@
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "711A",
-        "courseCode": "SE215",
-        "teacherInitial": "NJN",
+        "courseCode": "SE224",
+        "teacherInitial": "SAN",
         "batch": "41",
-        "section": "J2"
+        "section": "J1"
     },
     {
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "711A",
-        "courseCode": "SE224",
-        "teacherInitial": "SAN",
-        "batch": "41",
-        "section": "K2"
+        "courseCode": "SE132",
+        "teacherInitial": "KR",
+        "batch": "42",
+        "section": "E1"
     },
     {
         "day": "Saturday",
@@ -919,39 +955,39 @@
     },
     {
         "day": "Saturday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "711A",
-        "courseCode": "SE217",
-        "teacherInitial": "MAAA",
-        "batch": "42",
-        "section": "E2"
+        "time": "08:30 AM - 10:00 AM",
+        "room": "711B",
+        "courseCode": "SE331",
+        "teacherInitial": "DB",
+        "batch": "37",
+        "section": "B1"
     },
     {
         "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "711B",
-        "courseCode": "SE226",
-        "teacherInitial": "RT",
-        "batch": "40",
-        "section": "F1"
+        "courseCode": "SE331",
+        "teacherInitial": "DB",
+        "batch": "37",
+        "section": "B1"
     },
     {
         "day": "Saturday",
         "time": "11:30 AM - 01:00 PM",
         "room": "711B",
-        "courseCode": "SE224",
-        "teacherInitial": "SAN",
-        "batch": "41",
-        "section": "J1"
+        "courseCode": "SE132",
+        "teacherInitial": "SAM",
+        "batch": "42",
+        "section": "D1"
     },
     {
         "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "711B",
-        "courseCode": "SE132",
-        "teacherInitial": "KR",
+        "courseCode": "SE217",
+        "teacherInitial": "MAAA",
         "batch": "42",
-        "section": "E1"
+        "section": "E2"
     },
     {
         "day": "Saturday",
@@ -967,7 +1003,7 @@
         "time": "08:30 AM - 10:00 AM",
         "room": "ONLINE",
         "courseCode": "SE331",
-        "teacherInitial": "TH",
+        "teacherInitial": "FKJ",
         "batch": "37",
         "section": "D1"
     },
@@ -976,7 +1012,7 @@
         "time": "10:00 AM - 11:30 AM",
         "room": "ONLINE",
         "courseCode": "SE331",
-        "teacherInitial": "TH",
+        "teacherInitial": "FKJ",
         "batch": "37",
         "section": "D1"
     },
@@ -1009,15 +1045,6 @@
     },
     {
         "day": "Saturday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "ONLINE",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "D2"
-    },
-    {
-        "day": "Saturday",
         "time": "08:30 AM - 10:00 AM",
         "room": "ONLINE",
         "courseCode": "SE231",
@@ -1033,15 +1060,6 @@
         "teacherInitial": "AP",
         "batch": "40",
         "section": "H2"
-    },
-    {
-        "day": "Saturday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "ONLINE",
-        "courseCode": "SE322",
-        "teacherInitial": "FJK",
-        "batch": "39",
-        "section": "D1"
     },
     {
         "day": "Saturday",
@@ -1081,15 +1099,6 @@
     },
     {
         "day": "Saturday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "ONLINE",
-        "courseCode": "SE215",
-        "teacherInitial": "IS",
-        "batch": "41",
-        "section": "E1"
-    },
-    {
-        "day": "Saturday",
         "time": "01:00 PM - 02:30 PM",
         "room": "ONLINE",
         "courseCode": "SE334",
@@ -1105,15 +1114,6 @@
         "teacherInitial": "MAK",
         "batch": "38",
         "section": "A2"
-    },
-    {
-        "day": "Saturday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "601",
-        "courseCode": "DS332",
-        "teacherInitial": "TH",
-        "batch": "37",
-        "section": "B2"
     },
     {
         "day": "Saturday",
@@ -1150,15 +1150,6 @@
         "teacherInitial": "SR",
         "batch": "40",
         "section": "C2"
-    },
-    {
-        "day": "Saturday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "613",
-        "courseCode": "SE532",
-        "teacherInitial": "MBM",
-        "batch": "41",
-        "section": "I"
     },
     {
         "day": "Saturday",
@@ -1272,9 +1263,9 @@
         "day": "Sunday",
         "time": "11:30 AM - 01:00 PM",
         "room": "612",
-        "courseCode": "SE214",
-        "teacherInitial": "FE",
-        "batch": "41",
+        "courseCode": "SE311",
+        "teacherInitial": "AD",
+        "batch": "40",
         "section": "B"
     },
     {
@@ -1353,10 +1344,10 @@
         "day": "Sunday",
         "time": "04:00 PM - 05:30 PM",
         "room": "604",
-        "courseCode": "SE311",
-        "teacherInitial": "AD",
-        "batch": "40",
-        "section": "B"
+        "courseCode": "SE223",
+        "teacherInitial": "KRA",
+        "batch": "41",
+        "section": "D"
     },
     {
         "day": "Sunday",
@@ -1407,10 +1398,10 @@
         "day": "Sunday",
         "time": "04:00 PM - 05:30 PM",
         "room": "701A",
-        "courseCode": "SE223",
-        "teacherInitial": "KRA",
-        "batch": "41",
-        "section": "D"
+        "courseCode": "SE222",
+        "teacherInitial": "HKN",
+        "batch": "42",
+        "section": "H"
     },
     {
         "day": "Sunday",
@@ -1461,10 +1452,10 @@
         "day": "Sunday",
         "time": "04:00 PM - 05:30 PM",
         "room": "701B",
-        "courseCode": "SE332",
-        "teacherInitial": "AE",
-        "batch": "39",
-        "section": "D"
+        "courseCode": "MAT101",
+        "teacherInitial": "NA",
+        "batch": "All",
+        "section": "IR"
     },
     {
         "day": "Sunday",
@@ -1515,10 +1506,10 @@
         "day": "Sunday",
         "time": "04:00 PM - 05:30 PM",
         "room": "712A",
-        "courseCode": "SE222",
-        "teacherInitial": "HKN",
-        "batch": "42",
-        "section": "H"
+        "courseCode": "SE211",
+        "teacherInitial": "IR",
+        "batch": "All",
+        "section": null
     },
     {
         "day": "Sunday",
@@ -1567,6 +1558,15 @@
     },
     {
         "day": "Sunday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "712B",
+        "courseCode": "SE214",
+        "teacherInitial": "CP",
+        "batch": "41",
+        "section": "H"
+    },
+    {
+        "day": "Sunday",
         "time": "08:30 AM - 10:00 AM",
         "room": "713",
         "courseCode": "SE221",
@@ -1609,6 +1609,15 @@
         "teacherInitial": "SA",
         "batch": "38",
         "section": "B"
+    },
+    {
+        "day": "Sunday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "713",
+        "courseCode": "SE113",
+        "teacherInitial": "MKS",
+        "batch": "44",
+        "section": "M"
     },
     {
         "day": "Sunday",
@@ -1657,15 +1666,6 @@
     },
     {
         "day": "Sunday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "811",
-        "courseCode": "MAT101",
-        "teacherInitial": "IR",
-        "batch": "All",
-        "section": null
-    },
-    {
-        "day": "Sunday",
         "time": "08:30 AM - 10:00 AM",
         "room": "812",
         "courseCode": "SE111",
@@ -1708,15 +1708,6 @@
         "teacherInitial": "MMH",
         "batch": "43",
         "section": "C"
-    },
-    {
-        "day": "Sunday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "812",
-        "courseCode": "SE211",
-        "teacherInitial": "IR",
-        "batch": "All",
-        "section": null
     },
     {
         "day": "Sunday",
@@ -1785,28 +1776,28 @@
         "day": "Sunday",
         "time": "11:30 AM - 01:00 PM",
         "room": "913",
-        "courseCode": "SE342",
-        "teacherInitial": "A",
-        "batch": "35&36",
-        "section": null
+        "courseCode": "SE332",
+        "teacherInitial": "AE",
+        "batch": "39",
+        "section": "D"
     },
     {
         "day": "Sunday",
         "time": "01:00 PM - 02:30 PM",
         "room": "913",
-        "courseCode": "SE221",
+        "courseCode": "SE222",
         "teacherInitial": "NML",
-        "batch": "41",
-        "section": "N"
+        "batch": "42",
+        "section": "K"
     },
     {
         "day": "Sunday",
         "time": "02:30 PM - 04:00 PM",
         "room": "913",
-        "courseCode": "SE444",
-        "teacherInitial": "A",
-        "batch": "35&36",
-        "section": null
+        "courseCode": "SE311",
+        "teacherInitial": "SD",
+        "batch": "40",
+        "section": "F"
     },
     {
         "day": "Sunday",
@@ -1902,10 +1893,10 @@
         "day": "Sunday",
         "time": "08:30 AM - 10:00 AM",
         "room": "101A",
-        "courseCode": "SE544",
-        "teacherInitial": "NS",
-        "batch": "39",
-        "section": "D"
+        "courseCode": "SE221",
+        "teacherInitial": "NML",
+        "batch": "41",
+        "section": "N"
     },
     {
         "day": "Sunday",
@@ -1945,6 +1936,15 @@
     },
     {
         "day": "Sunday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "1415A",
+        "courseCode": "SE544",
+        "teacherInitial": "NS",
+        "batch": "39",
+        "section": "D"
+    },
+    {
+        "day": "Sunday",
         "time": "10:00 AM - 11:30 AM",
         "room": "1415A",
         "courseCode": "SE214",
@@ -1981,6 +1981,15 @@
     },
     {
         "day": "Sunday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "1415B",
+        "courseCode": "SE223",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "N"
+    },
+    {
+        "day": "Sunday",
         "time": "10:00 AM - 11:30 AM",
         "room": "1415B",
         "courseCode": "PHY101",
@@ -2001,8 +2010,8 @@
         "day": "Sunday",
         "time": "01:00 PM - 02:30 PM",
         "room": "1415B",
-        "courseCode": "SE321",
-        "teacherInitial": "FJK",
+        "courseCode": "SE333",
+        "teacherInitial": "KF",
         "batch": "39",
         "section": "D"
     },
@@ -2056,9 +2065,18 @@
         "time": "02:30 PM - 04:00 PM",
         "room": "610",
         "courseCode": "SE331",
-        "teacherInitial": "C5",
+        "teacherInitial": "DB",
         "batch": "37",
         "section": "B2"
+    },
+    {
+        "day": "Sunday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "610",
+        "courseCode": "SE132",
+        "teacherInitial": "KF",
+        "batch": "42",
+        "section": "K1"
     },
     {
         "day": "Sunday",
@@ -2154,19 +2172,19 @@
         "day": "Sunday",
         "time": "04:00 PM - 05:30 PM",
         "room": "903",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "D2"
+        "courseCode": "SE122",
+        "teacherInitial": "SD",
+        "batch": "43",
+        "section": "Q2"
     },
     {
         "day": "Sunday",
         "time": "08:30 AM - 10:00 AM",
         "room": "814A",
         "courseCode": "SE331",
-        "teacherInitial": "IAT",
-        "batch": "36",
-        "section": "A1"
+        "teacherInitial": "A2",
+        "batch": "36&37",
+        "section": null
     },
     {
         "day": "Sunday",
@@ -2175,7 +2193,7 @@
         "courseCode": "SE331",
         "teacherInitial": "IAT",
         "batch": "36",
-        "section": "A2"
+        "section": "A1"
     },
     {
         "day": "Sunday",
@@ -2290,7 +2308,7 @@
         "time": "01:00 PM - 02:30 PM",
         "room": "711A",
         "courseCode": "SE331",
-        "teacherInitial": "TH",
+        "teacherInitial": "FKJ",
         "batch": "37",
         "section": "D1"
     },
@@ -2356,6 +2374,15 @@
         "teacherInitial": "NT",
         "batch": "42",
         "section": "B1"
+    },
+    {
+        "day": "Sunday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "711B",
+        "courseCode": "SE331",
+        "teacherInitial": "FKJ",
+        "batch": "37",
+        "section": "E1"
     },
     {
         "day": "Sunday",
@@ -2541,10 +2568,10 @@
         "day": "Sunday",
         "time": "11:30 AM - 01:00 PM",
         "room": "601",
-        "courseCode": "SE222",
-        "teacherInitial": "NML",
+        "courseCode": "SE133",
+        "teacherInitial": "NS",
         "batch": "42",
-        "section": "F"
+        "section": "K1"
     },
     {
         "day": "Sunday",
@@ -2581,6 +2608,15 @@
         "teacherInitial": "MTE",
         "batch": "41",
         "section": "A"
+    },
+    {
+        "day": "Sunday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "613",
+        "courseCode": "SE532",
+        "teacherInitial": "HI",
+        "batch": "41",
+        "section": "M"
     },
     {
         "day": "Sunday",
@@ -2653,6 +2689,15 @@
         "teacherInitial": "IM",
         "batch": "36",
         "section": "A"
+    },
+    {
+        "day": "Monday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "611",
+        "courseCode": "SE222",
+        "teacherInitial": "HKN",
+        "batch": "42",
+        "section": "I"
     },
     {
         "day": "Monday",
@@ -2748,10 +2793,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "604",
-        "courseCode": "SE212",
-        "teacherInitial": "RM",
-        "batch": "43",
-        "section": "K"
+        "courseCode": "SE214",
+        "teacherInitial": "FE",
+        "batch": "41",
+        "section": "B"
+    },
+    {
+        "day": "Monday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "604",
+        "courseCode": "SE311",
+        "teacherInitial": "AD",
+        "batch": "40",
+        "section": "B"
     },
     {
         "day": "Monday",
@@ -2802,10 +2856,10 @@
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "701A",
-        "courseCode": "SE311",
-        "teacherInitial": "AD",
-        "batch": "40",
-        "section": "B"
+        "courseCode": "SE447",
+        "teacherInitial": "AP",
+        "batch": "37",
+        "section": "A"
     },
     {
         "day": "Monday",
@@ -2847,19 +2901,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "701B",
-        "courseCode": "BNS101",
-        "teacherInitial": "MSI",
-        "batch": "44",
-        "section": "D"
+        "courseCode": "SE212",
+        "teacherInitial": "RM",
+        "batch": "43",
+        "section": "K"
     },
     {
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "701B",
-        "courseCode": "SE447",
-        "teacherInitial": "AP",
-        "batch": "37",
-        "section": "A"
+        "courseCode": "SE223",
+        "teacherInitial": "KRA",
+        "batch": "41",
+        "section": "C"
     },
     {
         "day": "Monday",
@@ -2901,10 +2955,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "712A",
-        "courseCode": "SE234",
-        "teacherInitial": "FBR",
-        "batch": "40",
-        "section": "B"
+        "courseCode": "BNS101",
+        "teacherInitial": "MSI",
+        "batch": "44",
+        "section": "D"
+    },
+    {
+        "day": "Monday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "712A",
+        "courseCode": "PHY101",
+        "teacherInitial": "MOR",
+        "batch": "43",
+        "section": "L"
     },
     {
         "day": "Monday",
@@ -2946,19 +3009,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "712B",
-        "courseCode": "SE113",
-        "teacherInitial": "MKS",
-        "batch": "44",
-        "section": "J"
+        "courseCode": "SE234",
+        "teacherInitial": "FBR",
+        "batch": "40",
+        "section": "B"
     },
     {
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "712B",
-        "courseCode": "SE222",
-        "teacherInitial": "HKN",
-        "batch": "42",
-        "section": "I"
+        "courseCode": "SE223",
+        "teacherInitial": "SAN",
+        "batch": "41",
+        "section": "J"
     },
     {
         "day": "Monday",
@@ -3001,9 +3064,18 @@
         "time": "02:30 PM - 04:00 PM",
         "room": "713",
         "courseCode": "SE113",
-        "teacherInitial": "SS",
+        "teacherInitial": "MKS",
         "batch": "44",
-        "section": "E"
+        "section": "J"
+    },
+    {
+        "day": "Monday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "713",
+        "courseCode": "SE223",
+        "teacherInitial": "LA",
+        "batch": "41",
+        "section": "L"
     },
     {
         "day": "Monday",
@@ -3045,19 +3117,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "811",
-        "courseCode": "SE214",
-        "teacherInitial": "CP",
-        "batch": "41",
-        "section": "G"
+        "courseCode": "SE113",
+        "teacherInitial": "SS",
+        "batch": "44",
+        "section": "E"
     },
     {
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "811",
-        "courseCode": "SE223",
-        "teacherInitial": "KRA",
-        "batch": "41",
-        "section": "C"
+        "courseCode": "SE211",
+        "teacherInitial": "IR",
+        "batch": "All",
+        "section": null
     },
     {
         "day": "Monday",
@@ -3099,10 +3171,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "812",
-        "courseCode": "SE121",
-        "teacherInitial": "MTK",
-        "batch": "43",
-        "section": "B"
+        "courseCode": "SE214",
+        "teacherInitial": "CP",
+        "batch": "41",
+        "section": "G"
+    },
+    {
+        "day": "Monday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "812",
+        "courseCode": "SE225",
+        "teacherInitial": "RT",
+        "batch": "40",
+        "section": "G"
     },
     {
         "day": "Monday",
@@ -3144,19 +3225,19 @@
         "day": "Monday",
         "time": "02:30 PM - 04:00 PM",
         "room": "813A",
-        "courseCode": "SE216",
-        "teacherInitial": "MAAA",
-        "batch": "42",
-        "section": "E"
+        "courseCode": "SE121",
+        "teacherInitial": "MTK",
+        "batch": "43",
+        "section": "B"
     },
     {
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "813A",
-        "courseCode": "PHY101",
-        "teacherInitial": "MOR",
-        "batch": "43",
-        "section": "L"
+        "courseCode": "SE131",
+        "teacherInitial": "MRD",
+        "batch": "42",
+        "section": "F"
     },
     {
         "day": "Monday",
@@ -3207,10 +3288,10 @@
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "913",
-        "courseCode": "SE223",
-        "teacherInitial": "SAN",
-        "batch": "41",
-        "section": "J"
+        "courseCode": "SE216",
+        "teacherInitial": "MAAA",
+        "batch": "42",
+        "section": "E"
     },
     {
         "day": "Monday",
@@ -3259,15 +3340,6 @@
     },
     {
         "day": "Monday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "914",
-        "courseCode": "SE223",
-        "teacherInitial": "LA",
-        "batch": "41",
-        "section": "L"
-    },
-    {
-        "day": "Monday",
         "time": "08:30 AM - 10:00 AM",
         "room": "921",
         "courseCode": "SE223",
@@ -3313,15 +3385,6 @@
     },
     {
         "day": "Monday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "921",
-        "courseCode": "SE211",
-        "teacherInitial": "IR",
-        "batch": "All",
-        "section": null
-    },
-    {
-        "day": "Monday",
         "time": "08:30 AM - 10:00 AM",
         "room": "101A",
         "courseCode": "SE332",
@@ -3364,15 +3427,6 @@
         "teacherInitial": "SR",
         "batch": "40",
         "section": "E"
-    },
-    {
-        "day": "Monday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "101A",
-        "courseCode": "SE225",
-        "teacherInitial": "RT",
-        "batch": "40",
-        "section": "G"
     },
     {
         "day": "Monday",
@@ -3432,10 +3486,10 @@
         "day": "Monday",
         "time": "10:00 AM - 11:30 AM",
         "room": "1415B",
-        "courseCode": "SE532",
-        "teacherInitial": "HI",
-        "batch": "41",
-        "section": "F"
+        "courseCode": "SE234",
+        "teacherInitial": "RJM",
+        "batch": "40",
+        "section": "I"
     },
     {
         "day": "Monday",
@@ -3457,12 +3511,30 @@
     },
     {
         "day": "Monday",
-        "time": "04:00 PM - 05:30 PM",
+        "time": "02:30 PM - 04:00 PM",
         "room": "1415B",
-        "courseCode": "MAT101",
-        "teacherInitial": "IR",
-        "batch": "All",
-        "section": null
+        "courseCode": "SE333",
+        "teacherInitial": "KF",
+        "batch": "39",
+        "section": "D"
+    },
+    {
+        "day": "Monday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "814B",
+        "courseCode": "SE341",
+        "teacherInitial": "SCS",
+        "batch": "37",
+        "section": "C"
+    },
+    {
+        "day": "Monday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "814B",
+        "courseCode": "SE447",
+        "teacherInitial": "DB",
+        "batch": "37",
+        "section": "C"
     },
     {
         "day": "Monday",
@@ -3508,6 +3580,15 @@
         "teacherInitial": "MRN",
         "batch": "43",
         "section": "P2"
+    },
+    {
+        "day": "Monday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "610",
+        "courseCode": "SE334",
+        "teacherInitial": "KF",
+        "batch": "39",
+        "section": "D1"
     },
     {
         "day": "Monday",
@@ -3567,10 +3648,10 @@
         "day": "Monday",
         "time": "08:30 AM - 10:00 AM",
         "room": "903",
-        "courseCode": "SE112",
-        "teacherInitial": "SAN",
-        "batch": "44",
-        "section": "E2"
+        "courseCode": "SE311",
+        "teacherInitial": "AD",
+        "batch": "40",
+        "section": "I"
     },
     {
         "day": "Monday",
@@ -3585,10 +3666,10 @@
         "day": "Monday",
         "time": "11:30 AM - 01:00 PM",
         "room": "903",
-        "courseCode": "SE133",
-        "teacherInitial": "SAM",
-        "batch": "42",
-        "section": "J1"
+        "courseCode": "SE226",
+        "teacherInitial": "RT",
+        "batch": "40",
+        "section": "F1"
     },
     {
         "day": "Monday",
@@ -3820,18 +3901,9 @@
         "time": "04:00 PM - 05:30 PM",
         "room": "711B",
         "courseCode": "SE331",
-        "teacherInitial": "FJK",
+        "teacherInitial": "FKJ",
         "batch": "37",
-        "section": "D2"
-    },
-    {
-        "day": "Monday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "ONLINE",
-        "courseCode": "SE133",
-        "teacherInitial": "NS",
-        "batch": "42",
-        "section": "F"
+        "section": "E1"
     },
     {
         "day": "Monday",
@@ -3849,6 +3921,15 @@
         "courseCode": "SE231",
         "teacherInitial": "HKN",
         "batch": "40",
+        "section": "E1"
+    },
+    {
+        "day": "Monday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "ONLINE",
+        "courseCode": "SE331",
+        "teacherInitial": "FKJ",
+        "batch": "37",
         "section": "E1"
     },
     {
@@ -4008,10 +4089,19 @@
         "day": "Monday",
         "time": "04:00 PM - 05:30 PM",
         "room": "601",
-        "courseCode": "DS411",
+        "courseCode": "DS412",
         "teacherInitial": "MKH",
         "batch": "37",
-        "section": "B"
+        "section": "B2"
+    },
+    {
+        "day": "Monday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "613",
+        "courseCode": "SE532",
+        "teacherInitial": "HI",
+        "batch": "41",
+        "section": "N"
     },
     {
         "day": "Monday",
@@ -4021,6 +4111,15 @@
         "teacherInitial": "MBM",
         "batch": "41",
         "section": "J"
+    },
+    {
+        "day": "Monday",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "613",
+        "courseCode": "SE532",
+        "teacherInitial": "HI",
+        "batch": "41",
+        "section": "F"
     },
     {
         "day": "Monday",
@@ -4197,10 +4296,10 @@
         "day": "Tuesday",
         "time": "04:00 PM - 05:30 PM",
         "room": "604",
-        "courseCode": "SE321",
-        "teacherInitial": "FJK",
-        "batch": "39",
-        "section": "D"
+        "courseCode": "SE121",
+        "teacherInitial": "MR",
+        "batch": "43",
+        "section": "M"
     },
     {
         "day": "Tuesday",
@@ -4251,10 +4350,10 @@
         "day": "Tuesday",
         "time": "04:00 PM - 05:30 PM",
         "room": "701A",
-        "courseCode": "SE121",
-        "teacherInitial": "MR",
-        "batch": "43",
-        "section": "M"
+        "courseCode": "SE221",
+        "teacherInitial": "MIM",
+        "batch": "41",
+        "section": "I"
     },
     {
         "day": "Tuesday",
@@ -4305,10 +4404,10 @@
         "day": "Tuesday",
         "time": "04:00 PM - 05:30 PM",
         "room": "701B",
-        "courseCode": "SE221",
-        "teacherInitial": "MIM",
-        "batch": "41",
-        "section": "I"
+        "courseCode": "MAT101",
+        "teacherInitial": "NA",
+        "batch": "All",
+        "section": "IR"
     },
     {
         "day": "Tuesday",
@@ -4354,6 +4453,15 @@
         "teacherInitial": "MKS",
         "batch": "44",
         "section": "J"
+    },
+    {
+        "day": "Tuesday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "712A",
+        "courseCode": "SE341",
+        "teacherInitial": "SCS",
+        "batch": "37",
+        "section": "C"
     },
     {
         "day": "Tuesday",
@@ -4404,10 +4512,10 @@
         "day": "Tuesday",
         "time": "08:30 AM - 10:00 AM",
         "room": "713",
-        "courseCode": "SE131",
-        "teacherInitial": "MSP",
-        "batch": "42",
-        "section": "E"
+        "courseCode": "SE234",
+        "teacherInitial": "RJM",
+        "batch": "40",
+        "section": "I"
     },
     {
         "day": "Tuesday",
@@ -4755,10 +4863,10 @@
         "day": "Tuesday",
         "time": "02:30 PM - 04:00 PM",
         "room": "101A",
-        "courseCode": "SE532",
-        "teacherInitial": "MBM",
+        "courseCode": "SE223",
+        "teacherInitial": "KRA",
         "batch": "41",
-        "section": "I"
+        "section": "C"
     },
     {
         "day": "Tuesday",
@@ -4768,6 +4876,15 @@
         "teacherInitial": "MR",
         "batch": "43",
         "section": "J"
+    },
+    {
+        "day": "Tuesday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "1415A",
+        "courseCode": "SE131",
+        "teacherInitial": "MSP",
+        "batch": "42",
+        "section": "E"
     },
     {
         "day": "Tuesday",
@@ -4804,6 +4921,42 @@
         "teacherInitial": "SA",
         "batch": "38",
         "section": "B"
+    },
+    {
+        "day": "Tuesday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "1415B",
+        "courseCode": "SE311",
+        "teacherInitial": "SD",
+        "batch": "40",
+        "section": "G"
+    },
+    {
+        "day": "Tuesday",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "1415B",
+        "courseCode": "SE332",
+        "teacherInitial": "AE",
+        "batch": "39",
+        "section": "D"
+    },
+    {
+        "day": "Tuesday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "1415B",
+        "courseCode": "MAT101",
+        "teacherInitial": "NA",
+        "batch": "All",
+        "section": "IR"
+    },
+    {
+        "day": "Tuesday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "1415B",
+        "courseCode": "SE216",
+        "teacherInitial": "RJM",
+        "batch": "42",
+        "section": "A"
     },
     {
         "day": "Tuesday",
@@ -4882,7 +5035,7 @@
         "time": "11:30 AM - 01:00 PM",
         "room": "616",
         "courseCode": "SE331",
-        "teacherInitial": "C5",
+        "teacherInitial": "DB",
         "batch": "37",
         "section": "B2"
     },
@@ -4891,7 +5044,7 @@
         "time": "01:00 PM - 02:30 PM",
         "room": "616",
         "courseCode": "SE331",
-        "teacherInitial": "C5",
+        "teacherInitial": "DB",
         "batch": "37",
         "section": "B2"
     },
@@ -4918,9 +5071,9 @@
         "time": "08:30 AM - 10:00 AM",
         "room": "903",
         "courseCode": "SE331",
-        "teacherInitial": "TH",
+        "teacherInitial": "FKJ",
         "batch": "37",
-        "section": "D1"
+        "section": "D2"
     },
     {
         "day": "Tuesday",
@@ -4972,18 +5125,18 @@
         "time": "08:30 AM - 10:00 AM",
         "room": "814A",
         "courseCode": "SE331",
-        "teacherInitial": "IAT",
-        "batch": "36",
-        "section": "A2"
+        "teacherInitial": "A2",
+        "batch": "36&37",
+        "section": null
     },
     {
         "day": "Tuesday",
         "time": "10:00 AM - 11:30 AM",
         "room": "814A",
         "courseCode": "SE331",
-        "teacherInitial": "IAT",
-        "batch": "36",
-        "section": "A2"
+        "teacherInitial": "A2",
+        "batch": "36&37",
+        "section": null
     },
     {
         "day": "Tuesday",
@@ -5115,19 +5268,19 @@
         "day": "Tuesday",
         "time": "08:30 AM - 10:00 AM",
         "room": "711B",
-        "courseCode": "SE133",
-        "teacherInitial": "NT",
-        "batch": "42",
-        "section": "A2"
+        "courseCode": "SE112",
+        "teacherInitial": "RM",
+        "batch": "44",
+        "section": "D2"
     },
     {
         "day": "Tuesday",
         "time": "10:00 AM - 11:30 AM",
         "room": "711B",
-        "courseCode": "SE133",
-        "teacherInitial": "NT",
-        "batch": "42",
-        "section": "A2"
+        "courseCode": "SE231",
+        "teacherInitial": "AAS",
+        "batch": "40",
+        "section": "E2"
     },
     {
         "day": "Tuesday",
@@ -5196,10 +5349,10 @@
         "day": "Tuesday",
         "time": "01:00 PM - 02:30 PM",
         "room": "ONLINE",
-        "courseCode": "SE132",
-        "teacherInitial": "SAM",
-        "batch": "42",
-        "section": "D1"
+        "courseCode": "SE122",
+        "teacherInitial": "SD",
+        "batch": "43",
+        "section": "Q1"
     },
     {
         "day": "Tuesday",
@@ -5212,12 +5365,21 @@
     },
     {
         "day": "Tuesday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "ONLINE",
+        "courseCode": "SE133",
+        "teacherInitial": "NT",
+        "batch": "42",
+        "section": "A2"
+    },
+    {
+        "day": "Tuesday",
         "time": "10:00 AM - 11:30 AM",
         "room": "ONLINE",
-        "courseCode": "SE231",
-        "teacherInitial": "AAS",
-        "batch": "40",
-        "section": "E2"
+        "courseCode": "SE133",
+        "teacherInitial": "NT",
+        "batch": "42",
+        "section": "A2"
     },
     {
         "day": "Tuesday",
@@ -5248,12 +5410,21 @@
     },
     {
         "day": "Tuesday",
-        "time": "04:00 PM - 05:30 PM",
+        "time": "08:30 AM - 10:00 AM",
         "room": "ONLINE",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "E1"
+        "courseCode": "SE133",
+        "teacherInitial": "NS",
+        "batch": "42",
+        "section": "K1"
+    },
+    {
+        "day": "Tuesday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "ONLINE",
+        "courseCode": "SE133",
+        "teacherInitial": "NS",
+        "batch": "42",
+        "section": "K1"
     },
     {
         "day": "Tuesday",
@@ -5271,20 +5442,29 @@
         "courseCode": "SE334",
         "teacherInitial": "MAK",
         "batch": "39",
+        "section": "C1"
+    },
+    {
+        "day": "Tuesday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "ONLINE",
+        "courseCode": "SE321",
+        "teacherInitial": "FKJ",
+        "batch": "39",
         "section": "D1"
     },
     {
         "day": "Tuesday",
         "time": "08:30 AM - 10:00 AM",
         "room": "601",
-        "courseCode": "DS412",
+        "courseCode": "DS411",
         "teacherInitial": "MKH",
         "batch": "37",
-        "section": "B2"
+        "section": "B"
     },
     {
         "day": "Tuesday",
-        "time": "10:00 AM - 11:30 AM",
+        "time": "11:30 AM - 01:00 PM",
         "room": "601",
         "courseCode": "DS421",
         "teacherInitial": "A",
@@ -5293,7 +5473,7 @@
     },
     {
         "day": "Tuesday",
-        "time": "11:30 AM - 01:00 PM",
+        "time": "01:00 PM - 02:30 PM",
         "room": "601",
         "courseCode": "DS421",
         "teacherInitial": "A",
@@ -5338,6 +5518,15 @@
     },
     {
         "day": "Tuesday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "613",
+        "courseCode": "SE532",
+        "teacherInitial": "MBM",
+        "batch": "41",
+        "section": "I"
+    },
+    {
+        "day": "Tuesday",
         "time": "10:00 AM - 11:30 AM",
         "room": "614",
         "courseCode": "CS211",
@@ -5367,8 +5556,8 @@
         "day": "Wednesday",
         "time": "10:00 AM - 11:30 AM",
         "room": "611",
-        "courseCode": "SE222",
-        "teacherInitial": "SP",
+        "courseCode": "SE216",
+        "teacherInitial": "RJM",
         "batch": "42",
         "section": "A"
     },
@@ -5398,6 +5587,15 @@
         "teacherInitial": "MHS",
         "batch": "38",
         "section": "B"
+    },
+    {
+        "day": "Wednesday",
+        "time": "04:00 PM - 05:30 PM",
+        "room": "611",
+        "courseCode": "SE234",
+        "teacherInitial": "FJT",
+        "batch": "40",
+        "section": "E"
     },
     {
         "day": "Wednesday",
@@ -5491,15 +5689,6 @@
     },
     {
         "day": "Wednesday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "604",
-        "courseCode": "SE311",
-        "teacherInitial": "AD",
-        "batch": "40",
-        "section": "D"
-    },
-    {
-        "day": "Wednesday",
         "time": "08:30 AM - 10:00 AM",
         "room": "701A",
         "courseCode": "SE333",
@@ -5542,15 +5731,6 @@
         "teacherInitial": "MSI",
         "batch": "44",
         "section": "A"
-    },
-    {
-        "day": "Wednesday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "701A",
-        "courseCode": "SE234",
-        "teacherInitial": "FJT",
-        "batch": "40",
-        "section": "E"
     },
     {
         "day": "Wednesday",
@@ -5617,15 +5797,6 @@
     },
     {
         "day": "Wednesday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "712A",
-        "courseCode": "SE214",
-        "teacherInitial": "CP",
-        "batch": "41",
-        "section": "G"
-    },
-    {
-        "day": "Wednesday",
         "time": "01:00 PM - 02:30 PM",
         "room": "712A",
         "courseCode": "SE212",
@@ -5641,15 +5812,6 @@
         "teacherInitial": "SD",
         "batch": "40",
         "section": "E"
-    },
-    {
-        "day": "Wednesday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "712B",
-        "courseCode": "SE321",
-        "teacherInitial": "DB",
-        "batch": "39",
-        "section": "C"
     },
     {
         "day": "Wednesday",
@@ -5772,8 +5934,8 @@
         "day": "Wednesday",
         "time": "02:30 PM - 04:00 PM",
         "room": "811",
-        "courseCode": "SE214",
-        "teacherInitial": "CP",
+        "courseCode": "SE221",
+        "teacherInitial": "MBH",
         "batch": "41",
         "section": "H"
     },
@@ -5862,8 +6024,8 @@
         "day": "Wednesday",
         "time": "02:30 PM - 04:00 PM",
         "room": "813A",
-        "courseCode": "SE223",
-        "teacherInitial": "LA",
+        "courseCode": "SE214",
+        "teacherInitial": "NJN",
         "batch": "41",
         "section": "I"
     },
@@ -5887,19 +6049,10 @@
     },
     {
         "day": "Wednesday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "913",
-        "courseCode": "SE214",
-        "teacherInitial": "NJN",
-        "batch": "41",
-        "section": "I"
-    },
-    {
-        "day": "Wednesday",
         "time": "01:00 PM - 02:30 PM",
         "room": "913",
-        "courseCode": "SE216",
-        "teacherInitial": "RJM",
+        "courseCode": "SE222",
+        "teacherInitial": "SP",
         "batch": "42",
         "section": "A"
     },
@@ -5977,12 +6130,30 @@
     },
     {
         "day": "Wednesday",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "921",
+        "courseCode": "SE311",
+        "teacherInitial": "AD",
+        "batch": "40",
+        "section": "I"
+    },
+    {
+        "day": "Wednesday",
         "time": "01:00 PM - 02:30 PM",
         "room": "921",
         "courseCode": "PHY101",
         "teacherInitial": "JB",
         "batch": "43",
         "section": "N"
+    },
+    {
+        "day": "Wednesday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "921",
+        "courseCode": "SE311",
+        "teacherInitial": "AD",
+        "batch": "40",
+        "section": "D"
     },
     {
         "day": "Wednesday",
@@ -6006,10 +6177,10 @@
         "day": "Wednesday",
         "time": "11:30 AM - 01:00 PM",
         "room": "101A",
-        "courseCode": "SE333",
-        "teacherInitial": "KF",
-        "batch": "39",
-        "section": "D"
+        "courseCode": "SE223",
+        "teacherInitial": "LA",
+        "batch": "41",
+        "section": "I"
     },
     {
         "day": "Wednesday",
@@ -6019,6 +6190,15 @@
         "teacherInitial": "AG",
         "batch": "41",
         "section": "A"
+    },
+    {
+        "day": "Wednesday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "101A",
+        "courseCode": "SE214",
+        "teacherInitial": "CP",
+        "batch": "41",
+        "section": "G"
     },
     {
         "day": "Wednesday",
@@ -6037,6 +6217,15 @@
         "teacherInitial": "TS",
         "batch": "44",
         "section": "K"
+    },
+    {
+        "day": "Wednesday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "1415A",
+        "courseCode": "SE216",
+        "teacherInitial": "NAN",
+        "batch": "42",
+        "section": "H"
     },
     {
         "day": "Wednesday",
@@ -6082,15 +6271,6 @@
         "teacherInitial": "RM",
         "batch": "44",
         "section": "D1"
-    },
-    {
-        "day": "Wednesday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "610",
-        "courseCode": "SE112",
-        "teacherInitial": "RM",
-        "batch": "44",
-        "section": "D2"
     },
     {
         "day": "Wednesday",
@@ -6358,7 +6538,7 @@
         "time": "01:00 PM - 02:30 PM",
         "room": "711A",
         "courseCode": "SE331",
-        "teacherInitial": "C6",
+        "teacherInitial": "IAT",
         "batch": "37",
         "section": "C2"
     },
@@ -6406,15 +6586,6 @@
         "teacherInitial": "IS",
         "batch": "41",
         "section": "A1"
-    },
-    {
-        "day": "Wednesday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "711B",
-        "courseCode": "SE132",
-        "teacherInitial": "KF",
-        "batch": "42",
-        "section": "F"
     },
     {
         "day": "Wednesday",
@@ -6625,15 +6796,6 @@
     },
     {
         "day": "Wednesday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "601",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "E1"
-    },
-    {
-        "day": "Wednesday",
         "time": "11:30 AM - 01:00 PM",
         "room": "613",
         "courseCode": "SE532",
@@ -6665,7 +6827,7 @@
         "room": "614",
         "courseCode": "CS211",
         "teacherInitial": "NBA",
-        "batch": "418",
+        "batch": "37",
         "section": "A"
     },
     {
@@ -6742,15 +6904,6 @@
     },
     {
         "day": "Thursday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "612",
-        "courseCode": "SE223",
-        "teacherInitial": "KRA",
-        "batch": "41",
-        "section": "C"
-    },
-    {
-        "day": "Thursday",
         "time": "01:00 PM - 02:30 PM",
         "room": "612",
         "courseCode": "ENG101",
@@ -6766,15 +6919,6 @@
         "teacherInitial": "MA",
         "batch": "44",
         "section": "B"
-    },
-    {
-        "day": "Thursday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "612",
-        "courseCode": "SE225",
-        "teacherInitial": "RT",
-        "batch": "40",
-        "section": "F"
     },
     {
         "day": "Thursday",
@@ -6979,9 +7123,9 @@
         "time": "04:00 PM - 05:30 PM",
         "room": "712A",
         "courseCode": "SE221",
-        "teacherInitial": "MBH",
+        "teacherInitial": "MIM",
         "batch": "41",
-        "section": "H"
+        "section": "L"
     },
     {
         "day": "Thursday",
@@ -7032,10 +7176,10 @@
         "day": "Thursday",
         "time": "04:00 PM - 05:30 PM",
         "room": "712B",
-        "courseCode": "SE221",
-        "teacherInitial": "MIM",
+        "courseCode": "SE223",
+        "teacherInitial": "MMSI",
         "batch": "41",
-        "section": "L"
+        "section": "F"
     },
     {
         "day": "Thursday",
@@ -7059,10 +7203,10 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "713",
-        "courseCode": "SE221",
-        "teacherInitial": "MIM",
-        "batch": "41",
-        "section": "J"
+        "courseCode": "MAT101",
+        "teacherInitial": "NA",
+        "batch": "All",
+        "section": "IR"
     },
     {
         "day": "Thursday",
@@ -7087,9 +7231,9 @@
         "time": "04:00 PM - 05:30 PM",
         "room": "713",
         "courseCode": "SE223",
-        "teacherInitial": "MMSI",
+        "teacherInitial": "SAN",
         "batch": "41",
-        "section": "F"
+        "section": "K"
     },
     {
         "day": "Thursday",
@@ -7108,15 +7252,6 @@
         "teacherInitial": "RT",
         "batch": "40",
         "section": "H"
-    },
-    {
-        "day": "Thursday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "811",
-        "courseCode": "SE532",
-        "teacherInitial": "HI",
-        "batch": "41",
-        "section": "M"
     },
     {
         "day": "Thursday",
@@ -7140,10 +7275,10 @@
         "day": "Thursday",
         "time": "04:00 PM - 05:30 PM",
         "room": "811",
-        "courseCode": "SE223",
-        "teacherInitial": "SAN",
-        "batch": "41",
-        "section": "K"
+        "courseCode": "SE121",
+        "teacherInitial": "MJ",
+        "batch": "43",
+        "section": "O"
     },
     {
         "day": "Thursday",
@@ -7189,15 +7324,6 @@
         "teacherInitial": "IS",
         "batch": "41",
         "section": "F"
-    },
-    {
-        "day": "Thursday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "812",
-        "courseCode": "SE121",
-        "teacherInitial": "MJ",
-        "batch": "43",
-        "section": "O"
     },
     {
         "day": "Thursday",
@@ -7293,10 +7419,10 @@
         "day": "Thursday",
         "time": "08:30 AM - 10:00 AM",
         "room": "914",
-        "courseCode": "SE216",
-        "teacherInitial": "NAN",
-        "batch": "42",
-        "section": "H"
+        "courseCode": "SE223",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "G"
     },
     {
         "day": "Thursday",
@@ -7354,15 +7480,6 @@
     },
     {
         "day": "Thursday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "921",
-        "courseCode": "SE131",
-        "teacherInitial": "KF",
-        "batch": "42",
-        "section": "K"
-    },
-    {
-        "day": "Thursday",
         "time": "01:00 PM - 02:30 PM",
         "room": "921",
         "courseCode": "PHY101",
@@ -7377,15 +7494,6 @@
         "courseCode": "SE223",
         "teacherInitial": "KRA",
         "batch": "41",
-        "section": "D"
-    },
-    {
-        "day": "Thursday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "101A",
-        "courseCode": "SE333",
-        "teacherInitial": "KF",
-        "batch": "39",
         "section": "D"
     },
     {
@@ -7417,12 +7525,48 @@
     },
     {
         "day": "Thursday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "1415A",
+        "courseCode": "SE225",
+        "teacherInitial": "RT",
+        "batch": "40",
+        "section": "F"
+    },
+    {
+        "day": "Thursday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "1415A",
+        "courseCode": "SE221",
+        "teacherInitial": "MIM",
+        "batch": "41",
+        "section": "J"
+    },
+    {
+        "day": "Thursday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "1415A",
+        "courseCode": "SE131",
+        "teacherInitial": "KF",
+        "batch": "42",
+        "section": "K"
+    },
+    {
+        "day": "Thursday",
         "time": "02:30 PM - 04:00 PM",
         "room": "1415A",
         "courseCode": "SE221",
         "teacherInitial": "AG",
         "batch": "41",
         "section": "C"
+    },
+    {
+        "day": "Thursday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "1415B",
+        "courseCode": "SE321",
+        "teacherInitial": "FKJ",
+        "batch": "39",
+        "section": "D"
     },
     {
         "day": "Thursday",
@@ -7435,6 +7579,15 @@
     },
     {
         "day": "Thursday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "814B",
+        "courseCode": "SE447",
+        "teacherInitial": "DB",
+        "batch": "37",
+        "section": "C"
+    },
+    {
+        "day": "Thursday",
         "time": "08:30 AM - 10:00 AM",
         "room": "610",
         "courseCode": "SE331",
@@ -7455,19 +7608,19 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "610",
-        "courseCode": "SE334",
-        "teacherInitial": "KF",
-        "batch": "39",
-        "section": "D1"
+        "courseCode": "SE224",
+        "teacherInitial": "AR",
+        "batch": "41",
+        "section": "H1"
     },
     {
         "day": "Thursday",
         "time": "01:00 PM - 02:30 PM",
         "room": "610",
-        "courseCode": "SE122",
-        "teacherInitial": "AHZ",
-        "batch": "43",
-        "section": "G2"
+        "courseCode": "SE231",
+        "teacherInitial": "HKN",
+        "batch": "40",
+        "section": "A2"
     },
     {
         "day": "Thursday",
@@ -7480,15 +7633,6 @@
     },
     {
         "day": "Thursday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "610",
-        "courseCode": "SE231",
-        "teacherInitial": "HKN",
-        "batch": "40",
-        "section": "A2"
-    },
-    {
-        "day": "Thursday",
         "time": "08:30 AM - 10:00 AM",
         "room": "616",
         "courseCode": "SE331",
@@ -7509,10 +7653,10 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "616",
-        "courseCode": "SE224",
-        "teacherInitial": "AR",
-        "batch": "41",
-        "section": "H1"
+        "courseCode": "SE122",
+        "teacherInitial": "AHZ",
+        "batch": "43",
+        "section": "F2"
     },
     {
         "day": "Thursday",
@@ -7563,28 +7707,10 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "903",
-        "courseCode": "SE122",
-        "teacherInitial": "AHZ",
-        "batch": "43",
+        "courseCode": "SE226",
+        "teacherInitial": "RT",
+        "batch": "40",
         "section": "F2"
-    },
-    {
-        "day": "Thursday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "903",
-        "courseCode": "SE331",
-        "teacherInitial": "DB",
-        "batch": "37",
-        "section": "B1"
-    },
-    {
-        "day": "Thursday",
-        "time": "02:30 PM - 04:00 PM",
-        "room": "903",
-        "courseCode": "SE331",
-        "teacherInitial": "DB",
-        "batch": "37",
-        "section": "B1"
     },
     {
         "day": "Thursday",
@@ -7617,10 +7743,10 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "814A",
-        "courseCode": "SE226",
-        "teacherInitial": "RT",
-        "batch": "40",
-        "section": "F2"
+        "courseCode": "SE224",
+        "teacherInitial": "KRA",
+        "batch": "41",
+        "section": "D1"
     },
     {
         "day": "Thursday",
@@ -7642,15 +7768,6 @@
     },
     {
         "day": "Thursday",
-        "time": "04:00 PM - 05:30 PM",
-        "room": "814A",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "E1"
-    },
-    {
-        "day": "Thursday",
         "time": "08:30 AM - 10:00 AM",
         "room": "710",
         "courseCode": "SE217",
@@ -7671,96 +7788,6 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "710",
-        "courseCode": "SE331",
-        "teacherInitial": "FJK",
-        "batch": "37",
-        "section": "D1"
-    },
-    {
-        "day": "Thursday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "710",
-        "courseCode": "SE133",
-        "teacherInitial": "RHH",
-        "batch": "42",
-        "section": "I1"
-    },
-    {
-        "day": "Thursday",
-        "time": "02:30 PM - 04:00 PM",
-        "room": "710",
-        "courseCode": "SE133",
-        "teacherInitial": "RHH",
-        "batch": "42",
-        "section": "I1"
-    },
-    {
-        "day": "Thursday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "711A",
-        "courseCode": "SE133",
-        "teacherInitial": "MTM",
-        "batch": "42",
-        "section": "D2"
-    },
-    {
-        "day": "Thursday",
-        "time": "10:00 AM - 11:30 AM",
-        "room": "711A",
-        "courseCode": "SE133",
-        "teacherInitial": "MTM",
-        "batch": "42",
-        "section": "D2"
-    },
-    {
-        "day": "Thursday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "711A",
-        "courseCode": "SE224",
-        "teacherInitial": "KRA",
-        "batch": "41",
-        "section": "D1"
-    },
-    {
-        "day": "Thursday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "711A",
-        "courseCode": "SE133",
-        "teacherInitial": "MTM",
-        "batch": "42",
-        "section": "D1"
-    },
-    {
-        "day": "Thursday",
-        "time": "02:30 PM - 04:00 PM",
-        "room": "711A",
-        "courseCode": "SE133",
-        "teacherInitial": "MTM",
-        "batch": "42",
-        "section": "D1"
-    },
-    {
-        "day": "Thursday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "711B",
-        "courseCode": "SE133",
-        "teacherInitial": "RHH",
-        "batch": "42",
-        "section": "I2"
-    },
-    {
-        "day": "Thursday",
-        "time": "10:00 AM - 11:30 AM",
-        "room": "711B",
-        "courseCode": "SE133",
-        "teacherInitial": "RHH",
-        "batch": "42",
-        "section": "I2"
-    },
-    {
-        "day": "Thursday",
-        "time": "11:30 AM - 01:00 PM",
-        "room": "711B",
         "courseCode": "SE133",
         "teacherInitial": "TAK",
         "batch": "42",
@@ -7769,11 +7796,101 @@
     {
         "day": "Thursday",
         "time": "01:00 PM - 02:30 PM",
+        "room": "710",
+        "courseCode": "SE133",
+        "teacherInitial": "RHH",
+        "batch": "42",
+        "section": "I1"
+    },
+    {
+        "day": "Thursday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "710",
+        "courseCode": "SE133",
+        "teacherInitial": "RHH",
+        "batch": "42",
+        "section": "I1"
+    },
+    {
+        "day": "Thursday",
+        "time": "08:30 AM - 10:00 AM",
+        "room": "711A",
+        "courseCode": "SE133",
+        "teacherInitial": "MTM",
+        "batch": "42",
+        "section": "D2"
+    },
+    {
+        "day": "Thursday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "711A",
+        "courseCode": "SE133",
+        "teacherInitial": "MTM",
+        "batch": "42",
+        "section": "D2"
+    },
+    {
+        "day": "Thursday",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "711A",
+        "courseCode": "SE133",
+        "teacherInitial": "MJ",
+        "batch": "42",
+        "section": "F1"
+    },
+    {
+        "day": "Thursday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "711A",
+        "courseCode": "SE133",
+        "teacherInitial": "MTM",
+        "batch": "42",
+        "section": "D1"
+    },
+    {
+        "day": "Thursday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "711A",
+        "courseCode": "SE133",
+        "teacherInitial": "MTM",
+        "batch": "42",
+        "section": "D1"
+    },
+    {
+        "day": "Thursday",
+        "time": "08:30 AM - 10:00 AM",
         "room": "711B",
-        "courseCode": "SE224",
-        "teacherInitial": "SAN",
-        "batch": "41",
-        "section": "J2"
+        "courseCode": "SE133",
+        "teacherInitial": "RHH",
+        "batch": "42",
+        "section": "I2"
+    },
+    {
+        "day": "Thursday",
+        "time": "10:00 AM - 11:30 AM",
+        "room": "711B",
+        "courseCode": "SE133",
+        "teacherInitial": "RHH",
+        "batch": "42",
+        "section": "I2"
+    },
+    {
+        "day": "Thursday",
+        "time": "11:30 AM - 01:00 PM",
+        "room": "711B",
+        "courseCode": "SE231",
+        "teacherInitial": "HKN",
+        "batch": "40",
+        "section": "E1"
+    },
+    {
+        "day": "Thursday",
+        "time": "01:00 PM - 02:30 PM",
+        "room": "711B",
+        "courseCode": "SE122",
+        "teacherInitial": "AHZ",
+        "batch": "43",
+        "section": "G2"
     },
     {
         "day": "Thursday",
@@ -7806,10 +7923,10 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "ONLINE",
-        "courseCode": "SE133",
-        "teacherInitial": "MJ",
-        "batch": "42",
-        "section": "F1"
+        "courseCode": "SE226",
+        "teacherInitial": "NIR",
+        "batch": "40",
+        "section": "B1"
     },
     {
         "day": "Thursday",
@@ -7851,17 +7968,17 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "ONLINE",
-        "courseCode": "SE231",
-        "teacherInitial": "HKN",
-        "batch": "40",
-        "section": "E1"
+        "courseCode": "SE215",
+        "teacherInitial": "IS",
+        "batch": "41",
+        "section": "E2"
     },
     {
         "day": "Thursday",
         "time": "01:00 PM - 02:30 PM",
         "room": "ONLINE",
         "courseCode": "SE331",
-        "teacherInitial": "C6",
+        "teacherInitial": "IAT",
         "batch": "37",
         "section": "C2"
     },
@@ -7870,7 +7987,7 @@
         "time": "02:30 PM - 04:00 PM",
         "room": "ONLINE",
         "courseCode": "SE331",
-        "teacherInitial": "C6",
+        "teacherInitial": "IAT",
         "batch": "37",
         "section": "C2"
     },
@@ -7879,27 +7996,27 @@
         "time": "08:30 AM - 10:00 AM",
         "room": "ONLINE",
         "courseCode": "SE331",
-        "teacherInitial": "TH",
+        "teacherInitial": "FKJ",
         "batch": "37",
-        "section": "D1"
+        "section": "D2"
     },
     {
         "day": "Thursday",
         "time": "10:00 AM - 11:30 AM",
         "room": "ONLINE",
         "courseCode": "SE331",
-        "teacherInitial": "TH",
+        "teacherInitial": "FKJ",
         "batch": "37",
-        "section": "D1"
+        "section": "D2"
     },
     {
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "ONLINE",
-        "courseCode": "SE226",
-        "teacherInitial": "NIR",
-        "batch": "40",
-        "section": "B1"
+        "courseCode": "SE224",
+        "teacherInitial": "SAN",
+        "batch": "41",
+        "section": "J2"
     },
     {
         "day": "Thursday",
@@ -7941,15 +8058,6 @@
         "day": "Thursday",
         "time": "11:30 AM - 01:00 PM",
         "room": "601",
-        "courseCode": "SE215",
-        "teacherInitial": "IS",
-        "batch": "41",
-        "section": "E2"
-    },
-    {
-        "day": "Thursday",
-        "time": "01:00 PM - 02:30 PM",
-        "room": "601",
         "courseCode": "DS331",
         "teacherInitial": "MHS",
         "batch": "37",
@@ -7957,12 +8065,21 @@
     },
     {
         "day": "Thursday",
-        "time": "02:30 PM - 04:00 PM",
+        "time": "01:00 PM - 02:30 PM",
         "room": "601",
         "courseCode": "DS332",
         "teacherInitial": "MHS",
         "batch": "37",
         "section": "B1"
+    },
+    {
+        "day": "Thursday",
+        "time": "02:30 PM - 04:00 PM",
+        "room": "601",
+        "courseCode": "DS332",
+        "teacherInitial": "TH",
+        "batch": "37",
+        "section": "B2"
     },
     {
         "day": "Thursday",
