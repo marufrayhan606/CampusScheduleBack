@@ -1,15 +1,6 @@
 [
     {
         "day": "Saturday",
-        "time": "08:30 AM - 10:00 AM",
-        "room": "611",
-        "courseCode": "SE121",
-        "teacherInitial": "MR",
-        "batch": "43",
-        "section": "I"
-    },
-    {
-        "day": "Saturday",
         "time": "10:00 AM - 11:30 AM",
         "room": "611",
         "courseCode": "SE113",
